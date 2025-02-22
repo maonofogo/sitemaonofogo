@@ -273,8 +273,9 @@
   <Variable name="content.margin" description="Content margin" type="length"
             min="0px" max="1000px" default="117px"  value="117px"/>
 </Group>
-*/
 
+<style type='text/css'>
+  /*<![CDATA[*/
 /*!************************************************
  * Blogger Template Style
  * Name: CUSTOM SITE
@@ -2663,3 +2664,6 @@ background-color: #f1695d;
 }
 .dataTables_paginate {
   padding-top: 1em;
+ 
+  /*]]>*/
+  </style>
