@@ -1,0 +1,15 @@
+{
+  "avatar": {
+    "hairColor": "#663300",
+    "skinColor": "#FFCC99",
+    "clothingColor": "#cb1f27",
+    "logoUrl": "https://exemplo.com/logo.png"
+  },
+  "settings": {
+    "showWelcomeBanner": false,
+    "positionOverride": {
+      "top": "",
+      "left": ""
+    }
+  }
+}
